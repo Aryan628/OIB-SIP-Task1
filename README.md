@@ -44,4 +44,3 @@ Feel free to explore and customize the script based on your preferences and requ
 ## License
 
 This script is provided under the [MIT License](LICENSE).
-```
